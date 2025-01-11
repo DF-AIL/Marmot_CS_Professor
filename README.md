@@ -29,4 +29,16 @@ This is a collection of CS Professors working in the USA who obtaining their PhD
   - Postdoc UCSD 2019-2024
   - https://kunqian.info/
 
-    
+- Dr. **Jindong Wang**
+  - AP. William & Mary 2025-Now
+  - PhD **CAS-ICT** 2014-2019
+  - Working MSRA 2019-2025
+  - https://jd92.wang/
+
+- Dr. **Siyu Huang**
+  - AP. Clemson University 2023-Now
+  - PhD **Zhejiang University** 2014-2019
+  - Working Baidu 2019-2021
+  - Postdoc NTU 2021.2-2021.10
+  - Postdoc Harvard 2021.11-2023.8
+  - https://siyuhuang.github.io/
